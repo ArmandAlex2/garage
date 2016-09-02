@@ -1,0 +1,12 @@
+{
+  "name": "garage",
+  "version": "1.0.0",
+  "description": "Site showcasing webflow and web development",
+  "main": "gulpfile.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArmandAlex2/garage.git"
+  },
+  "author": "Armand Nerbas"
+  }
+
